@@ -1,6 +1,10 @@
 ﻿#include <stdio.h>
 #include <string.h>
 
+
+
+
+
 #include "framework.h"//包含CSocketProtocol  CEncDesProtocol
 #include "CSckImp1.h"//包含socket_init, send_data, recv_data, socket_destory声明
 #include "CHwImp.h"//包含enc_file, des_file声明
